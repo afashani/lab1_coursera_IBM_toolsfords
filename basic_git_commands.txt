@@ -1,0 +1,16 @@
+***Basic Git Commands***
+************************
+1. git clone
+2. git add
+3. git status
+4. git commit
+5. git reset
+6. git log
+7. git branch
+8. git checkout
+9. git merge
+10.git clone
+11.git push
+12.git init
+
+These are some basic git commands
